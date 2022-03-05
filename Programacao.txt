@@ -1,0 +1,32 @@
+# Programação :computer:
+
+
+
+**Variáveis**= Valor ou Expressão:
+
+* Não têm espaço, começa com letra;
+* Usar "  "
+
+
+
+**Constantes**= Não se altera.
+
+
+
+**Fluxograma** = Representa um algoritmo, ou seja, a sequência lógica e coerente do fluxo de dados.
+
+
+
+## Operadores Relacionais:
+
+## ![image-20220304222403224](C:\Users\juluc\AppData\Roaming\Typora\typora-user-images\image-20220304222403224.png)
+
+
+
+**Concatenação**= ligação, é usado & ou +.
+
+
+
+**Repetição** = Repetição de comando.
+
+Uso de **/n** para quebrar linha.
